@@ -40,6 +40,9 @@ nav a:hover {
   text-decoration: none;
   color: #868e96;
 }
+#header {
+  float: left;
+}
 
 main{
   margin-top: 20px;
