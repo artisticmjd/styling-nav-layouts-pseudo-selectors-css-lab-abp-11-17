@@ -68,3 +68,7 @@ footer{
   padding-top: 20px;
   color: #CCC;
 }
+
+#header h3:hover {
+  text-decoration: underline;
+}
