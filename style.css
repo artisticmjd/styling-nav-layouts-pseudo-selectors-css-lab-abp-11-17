@@ -76,3 +76,9 @@ footer{
 div.questions {
   padding: 0 20px 0 20px;
 }
+
+h4.questions {
+  font-size: 30px;
+  margin-botton: 10px;
+   
+}
