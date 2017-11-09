@@ -69,6 +69,6 @@ footer{
   color: #CCC;
 }
 
-#header h3 a:hover {
+#header a:hover {
   text-decoration: underline;
 }
