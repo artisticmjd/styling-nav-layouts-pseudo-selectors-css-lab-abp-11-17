@@ -40,10 +40,6 @@ nav a:hover {
   text-decoration: none;
   color: #868e96;
 }
-#header {
-  float: left;
-  padding-top: 20px;
-}
 
 main{
   margin-top: 20px;
@@ -75,4 +71,8 @@ footer{
 
 #header a:hover {
   text-decoration: underline;
+}
+
+div.questions {
+  padding: 0 20px 0 20px;
 }
